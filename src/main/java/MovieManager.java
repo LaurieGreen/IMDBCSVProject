@@ -5,6 +5,7 @@ import org.json.JSONObject;
 
 import config.management.ConfigManager;
 import file.management.MovieRecordScanner;
+import file.management.OutputFileWriter;
 import object.mapping.deserialisers.MovieDeserialiser;
 import object.mapping.dtos.MovieDTO;
 import object.mapping.Movie;
@@ -15,6 +16,7 @@ public class MovieManager {
 	private String[] invalidMovies;
 	private MovieDeserialiser deserialiser = new MovieDeserialiser();
 	private MovieRecordScanner recordScanner = new MovieRecordScanner();
+	private OutputFileWriter outputFileWriter = new OutputFileWriter();
 
 	private boolean usingOpenCsv(){
 		return ConfigManager.movieExtractionMethod().equals( "opencsv" );
@@ -37,9 +39,14 @@ public class MovieManager {
 	public List<String[]> getInvalidMovies(){
 		List<String[]> invalidMovies = new ArrayList<>();
 		if(usingOpenCsv()){
-			return deserialiser.getInvalidMovies();
+			invalidMovies = deserialiser.getInvalidMovies();
+			outputFileWriter.writeListToFile("validMovies.txt",invalidMovies );
 		}
-		return recordScanner.getInvalidMovies();
+		else {
+			invalidMovies = recordScanner.getInvalidMovies();
+			outputFileWriter.writeListToFile("invalidMovies.txt",invalidMovies );
+		}
+		return invalidMovies;
 	}
 
 	public static void main( String[] args ) {
