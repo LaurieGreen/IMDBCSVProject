@@ -12,12 +12,12 @@ import object.mapping.Movie;
 public class MovieManager {
 
 	private List<JSONObject> validMovies;
-	String[] invalidMovies;
-	MovieDeserialiser deserialiser = new MovieDeserialiser();
-	MovieRecordScanner recordScanner = new MovieRecordScanner();
+	private String[] invalidMovies;
+	private MovieDeserialiser deserialiser = new MovieDeserialiser();
+	private MovieRecordScanner recordScanner = new MovieRecordScanner();
 
 	private boolean usingOpenCsv(){
-		return ConfigManager.movieExtractionMethod().equals( "opncsv" );
+		return ConfigManager.movieExtractionMethod().equals( "opencsv" );
 	}
 
 	public List<JSONObject> getValidMoviesAsJson(){
@@ -42,10 +42,7 @@ public class MovieManager {
 		return recordScanner.getInvalidMovies();
 	}
 
-
-
 	public static void main( String[] args ) {
 		MovieManager manager = new MovieManager();
 	}
-
 }

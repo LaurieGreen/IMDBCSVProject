@@ -25,11 +25,11 @@ public class Main {
 //			logger.debug( movie.toString() );
 //		}
 
-		logger.info( "Total good data, from CSVDTO: " + validMovies.size() );
-		logger.info( "Good data, from CSVDTO, as JSON: " );
-		for ( JSONObject movie : validMovies ) {
-			logger.info( movie.toString() );
-		}
+//		logger.info( "Total good data, from CSVDTO: " + validMovies.size() );
+//		logger.info( "Good data, from CSVDTO, as JSON: " );
+//		for ( JSONObject movie : validMovies ) {
+//			logger.info( movie.toString() );
+//		}
 		logger.info( "Total bad data: " + invalidMovies.size() );
 	}
 }
