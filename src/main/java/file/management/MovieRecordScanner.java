@@ -21,10 +21,10 @@ public class MovieRecordScanner {
 		return invalidMovies;
 	}
 
-	public List<Movie> generateMovieData() {
+	public List<Movie> generateMovieData(String filename) {
 		List<Movie> validMovies = new ArrayList<>();
 		Scanner scanner = new Scanner(
-				movieFileReader.movieFileReader( ConfigManager.movieDataTestFileLocation() ) );
+				movieFileReader.movieFileReader( filename ) );
 		scanner.nextLine(); // to skip the CSV headers
 
 		while ( scanner.hasNext() ) {

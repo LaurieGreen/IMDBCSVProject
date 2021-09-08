@@ -12,8 +12,6 @@ import object.mapping.Movie;
 
 public class MovieManager {
 
-	private List<JSONObject> validMovies;
-	private String[] invalidMovies;
 	private MovieDeserialiser deserialiser = new MovieDeserialiser();
 	private MovieRecordScanner recordScanner = new MovieRecordScanner();
 	private OutputFileWriter outputFileWriter = new OutputFileWriter();
@@ -22,29 +20,30 @@ public class MovieManager {
 		return ConfigManager.movieExtractionMethod().equals( "opencsv" );
 	}
 
-	public List<JSONObject> getValidMoviesAsJson(){
+	public List<JSONObject> getValidMoviesAsJson(String fileName){
 		List<JSONObject> validMovies = new ArrayList<>();
-		if(usingOpenCsv()){
-			for( MovieDTO movie : deserialiser.generateMovieData()){
+		if (usingOpenCsv()){
+			for( MovieDTO movie : deserialiser.generateMovieData(fileName)){
 				validMovies.add( movie.toJson() );
 			}
 		}else{
-			for (Movie movie : recordScanner.generateMovieData()){
+			for (Movie movie : recordScanner.generateMovieData(fileName)){
 				validMovies.add( movie.toJson() );
 			}
 		}
+		outputFileWriter.writeJSONListToFile(ConfigManager.fileOutputLocation()+"validMovies.txt", validMovies );
 		return validMovies;
 	}
 
 	public List<String[]> getInvalidMovies(){
-		List<String[]> invalidMovies = new ArrayList<>();
+		List<String[]> invalidMovies;
 		if(usingOpenCsv()){
 			invalidMovies = deserialiser.getInvalidMovies();
-			outputFileWriter.writeListToFile("validMovies.txt",invalidMovies );
+			outputFileWriter.writeListToFile(ConfigManager.fileOutputLocation()+"invalidMovies.txt",invalidMovies );
 		}
 		else {
 			invalidMovies = recordScanner.getInvalidMovies();
-			outputFileWriter.writeListToFile("invalidMovies.txt",invalidMovies );
+			outputFileWriter.writeListToFile(ConfigManager.fileOutputLocation()+"invalidMovies.txt",invalidMovies );
 		}
 		return invalidMovies;
 	}

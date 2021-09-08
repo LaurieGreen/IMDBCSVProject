@@ -24,6 +24,10 @@ public class ConfigManager {
 		return config.getProperty( "movie_data_test_file_location" );
 	}
 
+	public static String fileOutputLocation(){
+		return config.getProperty( "movie_output_file_location" );
+	}
+
 
 	public static void main( String[] args ) {
 		System.out.println( ConfigManager.movieExtractionMethod() );

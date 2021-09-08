@@ -137,7 +137,7 @@ Dark Shadows,6.2,2012,113,PG-13,100000000,Comedy|Fantasy|Horror,79711678,Tim Bur
 Mission: Impossible - Rogue Nation,7.4,2015,131,PG-13,150000000,Action|Adventure|Thriller,195000874,Christopher McQuarrie,Tom Cruise,Jeremy Renner,Sean Harris,English,China
 The Wolfman,5.8,2010,119,R,150000000,Drama|Fantasy|Horror|Thriller,61937495,Joe Johnston,Anthony Hopkins,Simon Merrells,Art Malik,English,USA
 The Legend of Tarzan,6.6,2016,110,PG-13,180000000,Action|Adventure|Drama|Romance,124051759,David Yates,Christoph Waltz,Alexander SkarsgÃ¥rd,Casper Crump,English,USA
-Bee object.mapping.Movie,6.2,2007,91,PG,150000000,Adventure|Animation|Comedy|Family,126597121,Steve Hickner,Matthew Broderick,Oprah Winfrey,Rip Torn,English,USA
+Bee Movie,6.2,2007,91,PG,150000000,Adventure|Animation|Comedy|Family,126597121,Steve Hickner,Matthew Broderick,Oprah Winfrey,Rip Torn,English,USA
 Kung Fu Panda 2,7.3,2011,90,PG,150000000,Action|Adventure|Animation|Comedy|Family,165230261,Jennifer Yuh Nelson,Angelina Jolie Pitt,Gary Oldman,Mike Bell,English,USA
 The Last Airbender,4.2,2010,103,PG,150000000,Action|Adventure|Family|Fantasy,131564731,M. Night Shyamalan,Seychelle Gabriel,Noah Ringer,Aasif Mandvi,English,USA
 Mission: Impossible III,6.9,2006,124,PG-13,150000000,Action|Adventure|Thriller,133382309,J.J. Abrams,Philip Seymour Hoffman,Tom Cruise,Eddie Marsan,English,USA
@@ -322,7 +322,7 @@ Son of the Mask,2.2,2005,94,PG,84000000,Comedy|Family|Fantasy,17010646,Lawrence 
 In the Heart of the Sea,7,2015,122,PG-13,100000000,Action|Adventure|Biography|Drama|History|Thriller,24985612,Ron Howard,Chris Hemsworth,Benjamin Walker,Frank Dillane,English,USA
 The Adventures of Pluto Nash,3.8,2002,95,PG-13,100000000,Action|Comedy|Sci-Fi,4411102,Ron Underwood,Rosario Dawson,Randy Quaid,Burt Young,English,USA
 Green Zone,6.9,2010,115,R,100000000,Action|Drama|Thriller|War,35024475,Paul Greengrass,Matt Damon,Sean Huze,Igal Naor,English,France
-The Peanuts object.mapping.Movie,7.2,2015,88,G,99000000,Adventure|Animation|Comedy|Family,130174897,Steve Martino,Francesca Capaldi,Venus Schultheis,Bill Melendez,English,USA
+The Peanuts Movie,7.2,2015,88,G,99000000,Adventure|Animation|Comedy|Family,130174897,Steve Martino,Francesca Capaldi,Venus Schultheis,Bill Melendez,English,USA
 The Spanish Prisoner,7.3,1997,110,PG,10000000,Drama|Mystery|Thriller,10200000,David Mamet,Ben Gazzara,Felicity Huffman,Campbell Scott,English,USA
 The Mummy Returns,6.3,2001,130,PG-13,98000000,Action|Adventure|Fantasy|Thriller,202007640,Stephen Sommers,Dwayne Johnson,Brendan Fraser,Patricia Velasquez,English,USA
 Gangs of New York,7.5,2002,216,R,100000000,Crime|Drama,77679638,Martin Scorsese,Leonardo DiCaprio,Liam Neeson,Jim Broadbent,English,USA
@@ -566,7 +566,7 @@ Minions,6.4,2015,91,PG,74000000,Action|Animation|Comedy|Family|Sci-Fi,336029560,
 Sucker Punch,6.1,2011,128,PG-13,82000000,Action|Fantasy,36381716,Zack Snyder,Jon Hamm,Abbie Cornish,Scott Glenn,English,USA
 Snake Eyes,5.9,1998,98,R,69000000,Crime|Mystery|Thriller,55585389,Brian De Palma,Nicolas Cage,Mike Starr,John Heard,English,USA
 Sphere,6,1998,134,PG-13,75000000,Drama|Mystery|Sci-Fi|Thriller,36976367,Barry Levinson,Peter Coyote,James Pickens Jr.,Huey Lewis,English,USA
-The Angry Birds object.mapping.Movie,6.3,2016,97,PG,73000000,Action|Animation|Comedy|Family,107225164,Clay Kaytis,Peter Dinklage,Josh Gad,Keegan-Michael Key,English,USA
+The Angry Birds Movie,6.3,2016,97,PG,73000000,Action|Animation|Comedy|Family,107225164,Clay Kaytis,Peter Dinklage,Josh Gad,Keegan-Michael Key,English,USA
 Fool's Gold,5.6,2008,112,PG-13,70000000,Action|Adventure|Comedy|Romance|Thriller,70224196,Andy Tennant,Matthew McConaughey,Ray Winstone,Alexis Dziena,English,USA
 Funny People,6.4,2009,153,R,75000000,Comedy|Drama,51814190,Judd Apatow,Adam Sandler,RZA,Maude Apatow,English,USA
 The Kingdom,7.1,2007,110,R,70000000,Action|Drama|Thriller,47456450,Peter Berg,Jennifer Garner,Frances Fisher,Tim McGraw,English,USA
@@ -574,7 +574,7 @@ Talladega Nights: The Ballad of Ricky Bobby,6.6,2006,122,PG-13,73000000,Action|C
 Dr. Dolittle 2,4.6,2001,87,PG,72000000,Comedy|Family|Fantasy,112950721,Steve Carr,Raven-SymonÃ©,Jeffrey Jones,Kevin Pollak,English,USA
 Braveheart,8.4,1995,178,R,72000000,Biography|Drama|History|War,75600000,Mel Gibson,Mhairi Calvey,Patrick McGoohan,James Robinson,English,USA
 Jarhead,7.1,2005,125,R,70000000,Action|Drama|War,62647540,Sam Mendes,Jake Gyllenhaal,Brian Geraghty,James Morrison,English,Germany
-The Simpsons object.mapping.Movie,7.4,2007,87,PG-13,75000000,Adventure|Animation|Comedy,183132370,David Silverman,Albert Brooks,Yeardley Smith,Marcia Wallace,English,USA
+The Simpsons Movie,7.4,2007,87,PG-13,75000000,Adventure|Animation|Comedy,183132370,David Silverman,Albert Brooks,Yeardley Smith,Marcia Wallace,English,USA
 The Majestic,6.9,2001,152,PG,72000000,Drama|Romance,27796042,Frank Darabont,Martin Landau,Hal Holbrook,Jeffrey DeMunn,English,USA
 Driven,4.5,2001,116,PG-13,72000000,Action|Drama|Sport,32616869,Renny Harlin,Sylvester Stallone,Estella Warren,CristiÃ¡n de la Fuente,English,USA
 Two Brothers,7.1,2004,109,PG,59660000,Adventure|Drama|Family,18947630,Jean-Jacques Annaud,David Gant,Jean-Claude Dreyfus,Oanh Nguyen,English,France
@@ -585,7 +585,7 @@ Shrek 2,7.2,2004,93,PG,150000000,Adventure|Animation|Comedy|Family|Fantasy|Roman
 Cars,7.2,2006,117,G,120000000,Adventure|Animation|Comedy|Family|Sport,244052771,John Lasseter,John Ratzenberger,Cheech Marin,George Carlin,English,USA
 Runaway Bride,5.5,1999,116,PG,70000000,Comedy|Romance,152149590,Garry Marshall,Julia Roberts,Christopher Meloni,Hector Elizondo,English,USA
 xXx,5.8,2002,132,PG-13,70000000,Action|Adventure|Thriller,141204016,Rob Cohen,Vin Diesel,Eve,Leila Arcieri,English,USA
-The SpongeBob object.mapping.Movie: Sponge Out of Water,6,2015,92,PG,74000000,Adventure|Animation|Comedy|Family|Fantasy,162495848,Paul Tibbitt,Tim Conway,Billy West,Eddie Deezen,English,USA
+The SpongeBob Movie: Sponge Out of Water,6,2015,92,PG,74000000,Adventure|Animation|Comedy|Family|Fantasy,162495848,Paul Tibbitt,Tim Conway,Billy West,Eddie Deezen,English,USA
 Ransom,6.6,1996,139,R,80000000,Crime|Thriller,136448821,Ron Howard,Lili Taylor,Delroy Lindo,Rene Russo,English,USA
 Inglourious Basterds,8.3,2009,153,R,75000000,Adventure|Drama|War,120523073,Quentin Tarantino,Michael Fassbender,Brad Pitt,Christoph Waltz,English,USA
 Hook,6.7,1991,142,PG,70000000,Adventure|Comedy|Family|Fantasy,119654900,Steven Spielberg,Robin Williams,Julia Roberts,Bob Hoskins,English,USA
@@ -766,7 +766,7 @@ Alien: Resurrection,6.3,1997,116,R,75000000,Action|Horror|Sci-Fi,47748610,Jean-P
 Shooter,7.2,2007,124,R,61000000,Action|Crime|Drama|Mystery|Thriller,46975183,Antoine Fuqua,Tate Donovan,Ned Beatty,Louis Ferreira,English,USA
 The Boxtrolls,6.8,2014,96,PG,60000000,Adventure|Animation|Comedy|Family|Fantasy,50807639,Graham Annable,Isaac Hempstead Wright,Dee Bradley Baker,Tracy Morgan,English,USA
 Practical Magic,6.1,1998,104,PG-13,48000000,Comedy|Drama|Fantasy|Romance,46611204,Griffin Dunne,Goran Visnjic,Dianne Wiest,Stockard Channing,English,USA
-The Lego object.mapping.Movie,7.8,2014,100,PG,60000000,Action|Adventure|Animation|Comedy|Family|Fantasy,257756197,Phil Lord,Morgan Freeman,Will Ferrell,Alison Brie,English,Australia
+The Lego Movie,7.8,2014,100,PG,60000000,Action|Adventure|Animation|Comedy|Family|Fantasy,257756197,Phil Lord,Morgan Freeman,Will Ferrell,Alison Brie,English,Australia
 Miss Congeniality 2: Armed and Fabulous,5,2005,115,PG-13,45000000,Action|Comedy|Crime,48472213,John Pasquin,Eileen Brennan,Diedrich Bader,Treat Williams,English,USA
 Reign of Fire,6.2,2002,101,PG-13,60000000,Action|Adventure|Fantasy|Sci-Fi|Thriller,43060566,Rob Bowman,Christian Bale,Gerard Butler,Matthew McConaughey,English,USA
 Gangster Squad,6.7,2013,113,R,60000000,Action|Crime|Drama|Thriller,45996718,Ruben Fleischer,Ryan Gosling,Brandon Molale,Wade Williams,English,USA
@@ -1074,7 +1074,7 @@ The Infiltrator,7.3,2016,127,R,25000000,Biography|Crime|Drama|Thriller,14946229,
 Inchon,2.7,1981,140,PG,48000000,Drama|History|War,,Terence Young,Laurence Olivier,Ben Gazzara,Jacqueline Bisset,English,South Korea
 The Flintstones,4.8,1994,91,PG,45000000,Comedy|Family|Fantasy,130512915,Brian Levant,Jonathan Winters,Elizabeth Perkins,Harvey Korman,English,USA
 Taken 2,6.3,2012,98,PG-13,45000000,Action|Crime|Thriller,139852971,Olivier Megaton,Liam Neeson,Luke Grimes,D.B. Sweeney,English,France
-Scary object.mapping.Movie 3,5.5,2003,84,PG-13,48000000,Comedy,110000082,David Zucker,Regina Hall,Pamela Anderson,Jenny McCarthy,English,USA
+Scary Movie 3,5.5,2003,84,PG-13,48000000,Comedy,110000082,David Zucker,Regina Hall,Pamela Anderson,Jenny McCarthy,English,USA
 Miss Congeniality,6.2,2000,109,PG-13,45000000,Action|Comedy|Crime|Romance,106807667,Donald Petrie,Candice Bergen,Wendy Raquel Robinson,Heather Burns,English,USA
 Journey to the Center of the Earth,5.8,2008,93,PG,45000000,Action|Adventure|Family|Fantasy|Sci-Fi,101702060,Eric Brevig,Josh Hutcherson,Brendan Fraser,Anita Briem,English,USA
 The Princess Diaries 2: Royal Engagement,5.7,2004,113,G,40000000,Comedy|Family|Romance,95149435,Garry Marshall,Anne Hathaway,Raven-SymonÃ©,Hector Elizondo,English,USA
@@ -1086,7 +1086,7 @@ Monster-in-Law,5.5,2005,101,PG-13,60000000,Comedy|Romance,82931301,Robert Luketi
 Prisoners,8.1,2013,153,R,46000000,Crime|Drama|Mystery|Thriller,60962878,Denis Villeneuve,Hugh Jackman,Jake Gyllenhaal,Dylan Minnette,English,USA
 Training Day,7.7,2001,122,R,45000000,Crime|Drama|Thriller,76261036,Antoine Fuqua,Denzel Washington,Snoop Dogg,Tom Berenger,English,USA
 Galaxy Quest,7.3,1999,102,PG,45000000,Adventure|Comedy|Sci-Fi,71423726,Dean Parisot,Alan Rickman,Enrico Colantoni,Robin Sachs,English,USA
-Scary object.mapping.Movie 2,5.2,2001,83,R,45000000,Comedy,71277420,Keenen Ivory Wayans,Natasha Lyonne,Veronica Cartwright,Andy Richter,English,USA
+Scary Movie 2,5.2,2001,83,R,45000000,Comedy,71277420,Keenen Ivory Wayans,Natasha Lyonne,Veronica Cartwright,Andy Richter,English,USA
 The Muppets,7.1,2011,103,PG,45000000,Adventure|Comedy|Family|Musical,88625922,James Bobin,Bill Cobbs,Eric Jacobson,Steve Whitmire,English,USA
 Blade,7.1,1998,110,R,45000000,Action|Horror,70001065,Stephen Norrington,Sanaa Lathan,Traci Lords,Udo Kier,English,USA
 Coach Carter,7.2,2005,136,PG-13,30000000,Drama|Sport,67253092,Thomas Carter,Channing Tatum,Rick Gonzalez,Robert Ri'chard,English,USA
@@ -1198,7 +1198,7 @@ A League of Their Own,7.2,1992,128,PG,40000000,Comedy|Drama|Sport,107458785,Penn
 The Conjuring 2,7.8,2016,134,R,40000000,Horror|Mystery|Thriller,102310175,James Wan,Javier Botet,Frances O'Connor,Robin Atkin Downes,English,USA
 The Social Network,7.7,2010,120,PG-13,40000000,Biography|Drama,96917897,David Fincher,Andrew Garfield,Dustin Fitzsimons,Marcella Lentz-Pope,English,USA
 He's Just Not That Into You,6.4,2009,129,PG-13,40000000,Comedy|Drama|Romance,93952276,Ken Kwapis,Carmen Perez,Sabrina Revelle,Sachiko Ishida,English,USA
-Scary object.mapping.Movie 4,5.1,2006,89,PG-13,45000000,Comedy,90703745,David Zucker,Beau Mirchoff,Carmen Electra,Regina Hall,English,USA
+Scary Movie 4,5.1,2006,89,PG-13,45000000,Comedy,90703745,David Zucker,Beau Mirchoff,Carmen Electra,Regina Hall,English,USA
 Scream 3,5.5,2000,116,R,40000000,Horror|Mystery,89138076,Wes Craven,Kelly Rutherford,Roger Jackson,Nancy O'Dell,English,USA
 Back to the Future Part III,7.4,1990,118,PG,40000000,Adventure|Comedy|Sci-Fi|Western,87666629,Robert Zemeckis,Lea Thompson,Jeffrey Weissman,Thomas F. Wilson,English,USA
 Get Hard,6,2015,107,R,40000000,Comedy|Crime,90353764,Etan Cohen,Will Ferrell,Alison Brie,Craig T. Nelson,English,USA
@@ -1471,7 +1471,7 @@ Concussion,7.1,2015,123,PG-13,35000000,Biography|Drama|Sport,34531832,Peter Land
 Abduction,5,2011,106,PG-13,35000000,Action|Mystery|Thriller,28064226,John Singleton,Ken Arnold,Benjamin J. Cain Jr.,Richard Cetrone,English,USA
 Valiant,5.6,2005,76,G,35000000,Adventure|Animation|Comedy|Family|War,19447478,Gary Chapman,Jim Broadbent,Olivia Williams,Pip Torrens,English,UK
 Wonder Boys,7.4,2000,107,R,55000000,Comedy|Drama,19389454,Curtis Hanson,Robert Downey Jr.,Rip Torn,Richard Thomas,English,USA
-Superhero object.mapping.Movie,4.5,2008,82,PG-13,35000000,Action|Comedy|Sci-Fi|Thriller,25871834,Craig Mazin,Drake Bell,Tracy Morgan,Marion Ross,English,USA
+Superhero Movie,4.5,2008,82,PG-13,35000000,Action|Comedy|Sci-Fi|Thriller,25871834,Craig Mazin,Drake Bell,Tracy Morgan,Marion Ross,English,USA
 Broken City,6.2,2013,109,R,35000000,Crime|Drama|Thriller,19692608,Allen Hughes,Alona Tal,James Ransone,Michael Beach,English,USA
 Cursed,5,2005,99,PG-13,35000000,Comedy|Horror,19294901,Wes Craven,Shannon Elizabeth,Portia de Rossi,Derek Mears,English,USA
 Premium Rush,6.5,2012,91,PG-13,35000000,Action|Crime|Thriller,20275446,David Koepp,Joseph Gordon-Levitt,Dania Ramirez,Aasif Mandvi,English,USA
@@ -1601,14 +1601,14 @@ The Princess Diaries,6.2,2001,111,G,37000000,Comedy|Family|Romance,108244774,Gar
 The First Wives Club,6.2,1996,103,PG,26000000,Comedy,105444419,Hugh Wilson,Stockard Channing,Elizabeth Berkley,Stephen Collins,English,USA
 Se7en,8.6,1995,127,R,33000000,Crime|Drama|Mystery|Thriller,100125340,David Fincher,Morgan Freeman,Brad Pitt,Reg E. Cathey,English,USA
 District 9,8,2009,112,R,30000000,Action|Sci-Fi|Thriller,115646235,Neill Blomkamp,Sharlto Copley,Jed Brophy,Jason Cope,English,South Africa
-The SpongeBob SquarePants object.mapping.Movie,7,2004,87,PG,30000000,Adventure|Animation|Comedy|Family|Fantasy,85416609,Stephen Hillenburg,Scarlett Johansson,Bill Fagerbakke,Rodger Bumpass,English,USA
+The SpongeBob SquarePants Movie,7,2004,87,PG,30000000,Adventure|Animation|Comedy|Family|Fantasy,85416609,Stephen Hillenburg,Scarlett Johansson,Bill Fagerbakke,Rodger Bumpass,English,USA
 Mystic River,8,2003,138,R,25000000,Crime|Drama|Mystery|Thriller,90135191,Clint Eastwood,John Doman,Spencer Treat Clark,Tom Guiry,English,USA
 Million Dollar Baby,8.1,2004,132,PG-13,30000000,Drama|Sport,100422786,Clint Eastwood,Clint Eastwood,Morgan Freeman,Mike Colter,English,USA
 Analyze This,6.7,1999,103,R,30000000,Comedy|Crime,106694016,Harold Ramis,Robert De Niro,Chazz Palminteri,Molly Shannon,English,USA
 The Notebook,7.9,2004,123,PG-13,29000000,Drama|Romance,64286,Nick Cassavetes,Ryan Gosling,Kevin Connolly,Gena Rowlands,English,USA
 27 Dresses,6.1,2008,111,PG-13,30000000,Comedy|Romance,76806312,Anne Fletcher,Judy Greer,Bern Cohen,Yetta Gottesman,English,USA
-Hannah Montana: The object.mapping.Movie,4.2,2009,102,G,30000000,Comedy|Drama|Family|Music|Romance,79566871,Peter Chelsom,Emily Osment,Vanessa Williams,Moises Arias,English,USA
-Rugrats in Paris: The object.mapping.Movie,6.1,2000,78,G,30000000,Adventure|Animation|Comedy|Family|Romance,76501438,Stig Bergqvist,Elizabeth Daily,Casey Kasem,Debbie Reynolds,English,Germany
+Hannah Montana: The Movie,4.2,2009,102,G,30000000,Comedy|Drama|Family|Music|Romance,79566871,Peter Chelsom,Emily Osment,Vanessa Williams,Moises Arias,English,USA
+Rugrats in Paris: The Movie,6.1,2000,78,G,30000000,Adventure|Animation|Comedy|Family|Romance,76501438,Stig Bergqvist,Elizabeth Daily,Casey Kasem,Debbie Reynolds,English,Germany
 The Prince of Tides,6.6,1991,132,R,30000000,Drama|Romance,74787599,Barbra Streisand,George Carlin,Blythe Danner,Melinda Dillon,English,USA
 Legends of the Fall,7.5,1994,133,R,30000000,Drama|Romance|War|Western,66528842,Edward Zwick,Anthony Hopkins,Brad Pitt,Julia Ormond,English,USA
 Up in the Air,7.4,2009,108,R,25000000,Drama|Romance,83813460,Jason Reitman,J.K. Simmons,Anna Kendrick,Chris Lowell,English,USA
@@ -1749,7 +1749,7 @@ The Jacket,7.1,2005,94,R,29000000,Drama|Mystery|Sci-Fi|Thriller,6301131,John May
 Aladdin,8,1992,90,G,28000000,Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance,217350219,Ron Clements,Robin Williams,Frank Welker,Scott Weinger,English,USA
 Straight Outta Compton,7.9,2015,167,R,28000000,Biography|Crime|Drama|History|Music,161029270,F. Gary Gray,Aldis Hodge,Neil Brown Jr.,R. Marcos Taylor,English,USA
 Indiana Jones and the Temple of Doom,7.6,1984,118,PG,28000000,Action|Adventure,179870271,Steven Spielberg,Harrison Ford,Amrish Puri,Kate Capshaw,English,USA
-The Rugrats object.mapping.Movie,5.9,1998,83,G,24000000,Adventure|Animation|Comedy|Drama|Family|Musical,100491683,Igor Kovalyov,Elizabeth Daily,Cree Summer,Christine Cavanaugh,English,USA
+The Rugrats Movie,5.9,1998,83,G,24000000,Adventure|Animation|Comedy|Drama|Family|Musical,100491683,Igor Kovalyov,Elizabeth Daily,Cree Summer,Christine Cavanaugh,English,USA
 Along Came a Spider,6.3,2001,104,R,60000000,Crime|Drama|Thriller,74058698,Lee Tamahori,Morgan Freeman,Billy Burke,Monica Potter,English,USA
 Florence Foster Jenkins,7.1,2016,110,PG-13,29000000,Biography|Comedy|Drama|Music|Romance,,Stephen Frears,Meryl Streep,Nina Arianda,John Sessions,English,UK
 Once Upon a Time in Mexico,6.4,2003,102,R,29000000,Action|Crime|Thriller,55845943,Robert Rodriguez,Johnny Depp,Salma Hayek,Enrique Iglesias,English,USA
@@ -1911,7 +1911,7 @@ The Last Emperor,7.8,1987,219,PG-13,23000000,Biography|Drama|History,43984230,Be
 Contraband,6.5,2012,109,R,25000000,Action|Crime|Drama|Thriller,66489425,Baltasar KormÃ¡kur,J.K. Simmons,David O'Hara,Lukas Haas,English,USA
 Money Talks,6.1,1997,97,R,25000000,Action|Comedy|Crime|Thriller,41067398,Brett Ratner,Heather Locklear,Paul Sorvino,Faizon Love,English,USA
 There Will Be Blood,8.1,2007,158,R,25000000,Drama,40218903,Paul Thomas Anderson,Jim Meskimen,Paul F. Tompkins,Kevin Breznahan,English,USA
-The Wild Thornberrys object.mapping.Movie,5.2,2002,85,PG,25000000,Adventure|Animation|Comedy|Family|Fantasy,39880476,Cathy Malkasian,Alfre Woodard,Flea,Cree Summer,English,USA
+The Wild Thornberrys Movie,5.2,2002,85,PG,25000000,Adventure|Animation|Comedy|Family|Fantasy,39880476,Cathy Malkasian,Alfre Woodard,Flea,Cree Summer,English,USA
 Rugrats Go Wild,5.6,2003,80,PG,25000000,Adventure|Animation|Comedy|Family|Fantasy|Musical,39399750,John Eng,Elizabeth Daily,Cree Summer,Nancy Cartwright,English,USA
 Undercover Brother,5.8,2002,86,PG-13,25000000,Action|Comedy,38230435,Malcolm D. Lee,Dave Chappelle,Eddie Griffin,Chi McBride,English,USA
 The Sisterhood of the Traveling Pants,6.6,2005,119,PG,25000000,Comedy|Drama|Family|Romance,39008741,Ken Kwapis,Mike Vogel,America Ferrera,Kyle Schmid,English,USA
@@ -2181,17 +2181,17 @@ Me Before You,7.6,2016,110,PG-13,20000000,Drama|Romance,56154094,Thea Sharrock,S
 Madea's Witness Protection,4.8,2012,114,PG-13,20000000,Comedy|Crime|Drama,65623128,Tyler Perry,John Amos,Tom Arnold,Romeo Miller,English,USA
 The French Connection,7.8,1971,104,R,1800000,Action|Crime|Drama|Thriller,,William Friedkin,Roy Scheider,Fernando Rey,Tony Lo Bianco,English,USA
 Bad Moms,6.7,2016,100,R,20000000,Comedy,55461307,Jon Lucas,Mila Kunis,Jay Hernandez,Jada Pinkett Smith,English,USA
-Date object.mapping.Movie,2.7,2006,85,PG-13,20000000,Comedy|Romance,48546578,Aaron Seltzer,Alyson Hannigan,Carmen Electra,Fred Willard,English,USA
+Date Movie,2.7,2006,85,PG-13,20000000,Comedy|Romance,48546578,Aaron Seltzer,Alyson Hannigan,Carmen Electra,Fred Willard,English,USA
 Return to Never Land,5.8,2002,72,G,20000000,Adventure|Animation|Family|Fantasy,48423368,Robin Budd,Roger Rees,Rob Paulsen,Spencer Breslin,English,USA
 Selma,7.5,2014,128,PG-13,20000000,Biography|Drama|History,52066000,Ava DuVernay,David Oyelowo,Tom Wilkinson,Oprah Winfrey,English,UK
 The Jungle Book 2,5.4,2003,72,G,20000000,Adventure|Animation|Family|Musical,47887943,Steve Trenbirth,Haley Joel Osment,Phil Collins,Tony Jay,English,USA
 Boogeyman,4.1,2005,89,PG-13,20000000,Drama|Horror|Mystery|Thriller,46363118,Stephen Kay,Barry Watson,Skye McCole Bartusiak,Charles Mesure,English,USA
 Premonition,5.9,2007,96,PG-13,20000000,Drama|Mystery|Thriller,47852604,Mennan Yapo,Nia Long,Amber Valletta,Marc Macaulay,English,USA
-The Tigger object.mapping.Movie,6.3,2000,77,G,30000000,Animation|Comedy|Drama|Family|Musical,45542421,Jun Falkenstein,Kath Soucie,John Fiedler,Ken Sansom,English,USA
+The Tigger Movie,6.3,2000,77,G,30000000,Animation|Comedy|Drama|Family|Musical,45542421,Jun Falkenstein,Kath Soucie,John Fiedler,Ken Sansom,English,USA
 Orphan,7,2009,123,R,,Horror|Mystery|Thriller,41573740,Jaume Collet-Serra,Jimmy Bennett,CCH Pounder,Aryana Engineer,English,USA
 Max,6.8,2015,111,PG,20000000,Adventure|Family,42652003,Boaz Yakin,Jay Hernandez,Joseph Julian Soria,Edgar Arreola,English,USA
 Meet the Browns            ,3.5,,30,,,Comedy,,,Lamman Rucker,David Mann,Denise Boutte,English,USA
-Epic object.mapping.Movie,2.3,2007,93,PG-13,20000000,Adventure|Comedy,39737645,Jason Friedberg,David Carradine,Carmen Electra,Fred Willard,English,USA
+Epic Movie,2.3,2007,93,PG-13,20000000,Adventure|Comedy,39737645,Jason Friedberg,David Carradine,Carmen Electra,Fred Willard,English,USA
 Conan the Barbarian,6.9,1982,129,R,20000000,Adventure|Fantasy,37567440,John Milius,William Smith,Mako,Sandahl Bergman,English,USA
 Spotlight,8.1,2015,128,R,20000000,Biography|Crime|Drama|History,44988180,Tom McCarthy,Billy Crudup,Jamey Sheridan,Brian d'Arcy James,English,USA
 Lakeview Terrace,6.1,2008,110,PG-13,22000000,Crime|Drama|Thriller,39263506,Neil LaBute,Jay Hernandez,Justin Chambers,Robert Pine,English,USA
@@ -2209,7 +2209,7 @@ Doubt,7.5,2008,104,PG-13,20000000,Drama|Mystery,33422556,John Patrick Shanley,Ph
 Team America: World Police,7.2,2004,98,R,30000000,Action|Comedy,32774834,Trey Parker,Jeremy Shada,Maurice LaMarche,Trey Parker,English,USA
 Texas Chainsaw 3D,4.8,2013,92,R,11000000,Horror|Thriller,34334256,John Luessenhop,Gunnar Hansen,Keram Malicki-SÃ¡nchez,Shaun Sipos,English,USA
 Copycat,6.6,1995,123,R,20000000,Crime|Drama|Mystery|Thriller,32051917,Jon Amiel,William McNamara,Holly Hunter,Harry Connick Jr.,English,USA
-Scary object.mapping.Movie 5,3.5,2013,88,PG-13,20000000,Comedy,32014289,Malcolm D. Lee,Marisa Saks,Snoop Dogg,Molly Shannon,English,USA
+Scary Movie 5,3.5,2013,88,PG-13,20000000,Comedy,32014289,Malcolm D. Lee,Marisa Saks,Snoop Dogg,Molly Shannon,English,USA
 Paint Your Wagon,6.7,1969,158,PG-13,20000000,Comedy|Drama|Musical|Romance|Western,,Joshua Logan,Clint Eastwood,Lee Marvin,Ray Walston,English,USA
 Milk,7.6,2008,128,R,20000000,Biography|Drama|History,31838002,Gus Van Sant,James Franco,Denis O'Hare,Lucas Grabeel,English,USA
 Risen,6.3,2016,107,PG-13,20000000,Action|Adventure|Drama|Mystery,36874745,Kevin Reynolds,Peter Firth,Jan Cornet,MarÃ­a Botto,English,USA
@@ -2253,7 +2253,7 @@ Into the Wild,8.2,2007,148,R,15000000,Adventure|Biography|Drama,18352454,Sean Pe
 School for Scoundrels,5.9,2006,108,PG-13,20000000,Comedy,17803796,Todd Phillips,Jon Heder,Sarah Silverman,Jacinda Barrett,English,USA
 Silent Hill: Revelation 3D,5,2012,95,R,20000000,Adventure|Drama|Horror|Mystery|Thriller,17529157,Michael J. Bassett,Radha Mitchell,Deborah Kara Unger,Martin Donovan,English,France
 From Dusk Till Dawn,7.3,1996,108,R,19000000,Crime|Fantasy|Horror,25753840,Robert Rodriguez,Quentin Tarantino,Salma Hayek,Cheech Marin,English,USA
-Pooh's Heffalump object.mapping.Movie,6.4,2005,68,G,20000000,Animation|Family|Fantasy|Mystery,18081626,Frank Nissen,Kath Soucie,Brenda Blethyn,John Fiedler,English,USA
+Pooh's Heffalump Movie,6.4,2005,68,G,20000000,Animation|Family|Fantasy|Mystery,18081626,Frank Nissen,Kath Soucie,Brenda Blethyn,John Fiedler,English,USA
 Home for the Holidays,6.6,1995,103,PG-13,20000000,Comedy|Drama|Romance,17518220,Jodie Foster,Robert Downey Jr.,Holly Hunter,Steve Guttenberg,English,USA
 Kung Fu Hustle,7.8,2004,99,R,20000000,Action|Comedy|Crime|Fantasy,17104669,Stephen Chow,Shengyi Huang,Chi Ling Chiu,Qiu Yuen,Cantonese,Hong Kong
 Fired Up            ,6.7,,30,,,Comedy,,,Leah Remini,Mark Feuerstein,Sharon Lawrence,English,USA
@@ -2267,7 +2267,7 @@ Loser,5.3,2000,98,PG-13,20000000,Comedy|Romance,15464026,Amy Heckerling,Andy Dic
 Capitalism: A Love Story,7.4,2009,105,R,,Crime|Documentary|News,14359793,Michael Moore,Ronald Reagan,Michael Moore,Bernie Sanders,English,USA
 The Greatest Story Ever Told,6.6,1965,225,G,20000000,Biography|Drama|History,8000000,George Stevens,Martin Landau,Carroll Baker,JosÃ© Ferrer,English,USA
 Secret in Their Eyes,6.2,2015,111,PG-13,19500000,Crime|Drama|Mystery|Thriller,,Billy Ray,Julia Roberts,Michael Kelly,Joe Cole,English,USA
-Disaster object.mapping.Movie,1.9,2008,88,PG-13,25000000,Comedy,14174654,Jason Friedberg,Carmen Electra,Tony Cox,Ike Barinholtz,English,USA
+Disaster Movie,1.9,2008,88,PG-13,25000000,Comedy,14174654,Jason Friedberg,Carmen Electra,Tony Cox,Ike Barinholtz,English,USA
 Armored,5.7,2009,88,PG-13,27000000,Action|Crime|Thriller,15988876,NimrÃ³d Antal,Andrew Fiscella,Fred Ward,Lorna Raver,English,USA
 The Man Who Knew Too Little,6.6,1997,94,PG,20000000,Action|Comedy|Crime|Thriller,13801755,Jon Amiel,Bill Murray,Peter Gallagher,Joanne Whalley,English,USA
 What's Your Number?,6,2011,117,R,20000000,Comedy|Romance,13987482,Mark Mylod,Chris Evans,Ari Graynor,Ed Begley Jr.,English,USA
@@ -2630,13 +2630,13 @@ When a Stranger Calls,5,2006,87,PG-13,15000000,Horror|Thriller,47860214,Simon We
 Big Fat Liar,5.4,2002,88,PG,15000000,Adventure|Comedy|Family,47811275,Shawn Levy,Frankie Muniz,Donald Faison,Lee Majors,English,USA
 The Deer Hunter,8.2,1978,183,R,15000000,Drama|War,,Michael Cimino,Robert De Niro,Meryl Streep,John Savage,English,UK
 Wag the Dog,7.1,1997,97,R,15000000,Comedy|Drama,43022524,Barry Levinson,Robert De Niro,Kirsten Dunst,John Michael Higgins,English,USA
-The Lizzie McGuire object.mapping.Movie,5.3,2003,94,PG,17000000,Adventure|Comedy|Family|Music|Romance,42672630,Jim Fall,Clayton Snyder,Adam Lamberg,Alex Borstein,English,USA
+The Lizzie McGuire Movie,5.3,2003,94,PG,17000000,Adventure|Comedy|Family|Music|Romance,42672630,Jim Fall,Clayton Snyder,Adam Lamberg,Alex Borstein,English,USA
 Snitch,6.5,2013,112,PG-13,15000000,Action|Drama|Thriller,42919096,Ric Roman Waugh,Dwayne Johnson,Harold Perrineau,Nadine Velazquez,English,USA
 Krampus,6.2,2015,98,PG-13,15000000,Comedy|Fantasy|Horror,42592530,Michael Dougherty,Adam Scott,Conchata Ferrell,Allison Tolman,English,USA
 The Faculty,6.4,1998,104,R,15000000,Horror|Mystery|Sci-Fi,40064955,Robert Rodriguez,Jordana Brewster,Salma Hayek,Clea DuVall,English,USA
 What's Love Got to Do with It,7.2,1993,118,R,,Biography|Drama|Music,39100956,Brian Gibson,Rae'Ven Kelly,Virginia Capers,Dororthy Thorton,English,USA
 Cop Land,6.9,1997,120,R,10000000,Crime|Drama|Thriller,44886089,James Mangold,Robert De Niro,Sylvester Stallone,Janeane Garofalo,English,USA
-Not Another Teen object.mapping.Movie,5.7,2001,99,R,16000000,Comedy,37882551,Joel Gallen,Chris Evans,JoAnna Garcia Swisher,Mia Kirshner,English,USA
+Not Another Teen Movie,5.7,2001,99,R,16000000,Comedy,37882551,Joel Gallen,Chris Evans,JoAnna Garcia Swisher,Mia Kirshner,English,USA
 End of Watch,7.7,2012,109,R,7000000,Crime|Drama|Thriller,40983001,David Ayer,Jake Gyllenhaal,Anna Kendrick,America Ferrera,English,USA
 Aloha,5.4,2015,105,PG-13,37000000,Comedy|Drama|Romance,20991497,Cameron Crowe,Emma Stone,Bradley Cooper,Bill Murray,English,USA
 The Skulls,5.6,2000,106,PG-13,15000000,Action|Crime|Drama|Thriller,35007180,Rob Cohen,Paul Walker,Leslie Bibb,William Petersen,English,USA
@@ -2684,7 +2684,7 @@ Firestarter,6,1984,114,R,15000000,Action|Horror|Sci-Fi|Thriller,15100000,Mark L.
 Killing Them Softly,6.2,2012,97,R,15000000,Crime|Thriller,14938570,Andrew Dominik,Brad Pitt,Sam Shepard,Ben Mendelsohn,English,USA
 A Most Wanted Man,6.8,2014,122,R,15000000,Crime|Drama|Thriller,17237244,Anton Corbijn,Philip Seymour Hoffman,Nina Hoss,Homayoun Ershadi,English,UK
 Freddy Got Fingered,4.5,2001,87,R,15000000,Comedy,14249005,Tom Green,Rip Torn,Harland Williams,Eddie Kaye Thomas,English,USA
-The Pirates Who Don't Do Anything: A VeggieTales object.mapping.Movie,5.7,2008,85,G,15000000,Adventure|Animation|Comedy|Family,12701880,Mike Nawrocki,Yuri Lowenthal,Cam Clarke,Phil Vischer,English,USA
+The Pirates Who Don't Do Anything: A VeggieTales Movie,5.7,2008,85,G,15000000,Adventure|Animation|Comedy|Family,12701880,Mike Nawrocki,Yuri Lowenthal,Cam Clarke,Phil Vischer,English,USA
 U2 3D,8.4,2007,85,G,,Documentary|Music,10353690,Catherine Owens,Bono,The Edge,Larry Mullen Jr.,English,USA
 Highlander: Endgame,4.6,2000,101,R,15000000,Action|Adventure|Fantasy|Sci-Fi,12801190,Douglas Aarniokoski,Christopher Lambert,Adrian Paul,Adam Copeland,English,USA
 Idlewild,6.2,2006,121,R,15000000,Crime|Drama|Musical|Romance,12549485,Bryan Barber,Cicely Tyson,Faizon Love,Bobb'e J. Thompson,English,USA
@@ -2781,7 +2781,7 @@ Good Deeds,5.4,2012,110,PG-13,,Comedy|Drama|Romance,35010192,Tyler Perry,Eddie C
 White Fang,6.7,1991,107,PG,14000000,Adventure|Drama,34793160,Randal Kleiser,Seymour Cassel,Klaus Maria Brandauer,Susan Hogan,English,USA
 Superstar,5,1999,81,PG-13,14000000,Comedy|Romance,30628981,Bruce McCulloch,Will Ferrell,Elaine Hendrix,Molly Shannon,English,USA
 The Iron Lady,6.4,2011,105,PG-13,13000000,Biography|Drama|History,29959436,Phyllida Lloyd,Meryl Streep,Jim Broadbent,Olivia Colman,English,UK
-Jonah: A VeggieTales object.mapping.Movie,6.6,2002,82,G,14000000,Adventure|Animation|Comedy|Drama|Family|Musical,25571351,Mike Nawrocki,Phil Vischer,Mike Nawrocki,Shelby Vischer,English,USA
+Jonah: A VeggieTales Movie,6.6,2002,82,G,14000000,Adventure|Animation|Comedy|Drama|Family|Musical,25571351,Mike Nawrocki,Phil Vischer,Mike Nawrocki,Shelby Vischer,English,USA
 Poetic Justice,5.9,1993,109,R,14000000,Drama|Romance,27515786,John Singleton,Janet Jackson,Khandi Alexander,Maya Angelou,English,USA
 All About the Benjamins,5.7,2002,95,R,14000000,Action|Comedy|Crime|Thriller,25482931,Kevin Bray,Mike Epps,Roger Guenveur Smith,Gino Salvano,English,USA
 Vampire in Brooklyn,4.5,1995,100,R,20000000,Comedy|Fantasy|Horror|Romance,19900000,Wes Craven,John Witherspoon,W. Earl Brown,Allen Payne,English,USA
@@ -3121,7 +3121,7 @@ The Lawnmower Man,5.4,1992,140,R,10000000,Horror|Sci-Fi,32101000,Brett Leonard,J
 Nick and Norah's Infinite Playlist,6.7,2008,90,PG-13,9000000,Comedy|Drama|Music|Romance,31487293,Peter Sollett,Ari Graynor,Alexis Dziena,Aaron Yoo,English,USA
 Dogma,7.4,1999,130,R,10000000,Adventure|Comedy|Drama|Fantasy,30651422,Kevin Smith,Matt Damon,Janeane Garofalo,George Carlin,English,USA
 The Banger Sisters,5.6,2002,98,R,10000000,Comedy|Drama,30306281,Bob Dolman,Erika Christensen,Eva Amurri Martino,Sal Lopez,English,USA
-Twilight Zone: The object.mapping.Movie,6.5,1983,101,PG,10000000,Fantasy|Horror|Sci-Fi,29500000,Joe Dante,Albert Brooks,Al Leong,Vic Morrow,English,USA
+Twilight Zone: The Movie,6.5,1983,101,PG,10000000,Fantasy|Horror|Sci-Fi,29500000,Joe Dante,Albert Brooks,Al Leong,Vic Morrow,English,USA
 Road House,6.5,1989,114,R,17000000,Action|Thriller,30050028,Rowdy Herrington,Ben Gazzara,Kevin Tighe,Kelly Lynch,English,USA
 A Low Down Dirty Shame,5.8,1994,100,R,10000000,Action|Comedy|Crime,29392418,Keenen Ivory Wayans,Jada Pinkett Smith,Salli Richardson-Whitfield,Charles S. Dutton,English,USA
 Swimfan,5,2002,85,PG-13,8500000,Drama|Thriller,28563926,John Polson,Erika Christensen,Shiri Appleby,Jason Ritter,English,USA
@@ -3153,7 +3153,7 @@ Mud,7.4,2012,130,PG-13,10000000,Drama,21589307,Jeff Nichols,Matthew McConaughey,
 Reno 911!: Miami,5.9,2007,84,R,10000000,Comedy|Crime,20339754,Robert Ben Garant,Wendi McLendon-Covey,Thomas Lennon,Carlos Alazraqui,English,USA
 One Direction: This Is Us,4.1,2013,106,PG,10000000,Documentary|Music,28873374,Morgan Spurlock,Harry Styles,Zayn Malik,Niall Horan,English,USA
 "The Goods: Live Hard, Sell Hard",5.8,2009,89,R,,Comedy,15102127,Neal Brennan,Rob Riggle,Noureen DeWulf,Charles Napier,English,USA
-Hey Arnold! The object.mapping.Movie,5.9,2002,76,PG,3000000,Adventure|Animation|Comedy|Family,13684949,Tuck Tucker,Jennifer Jason Leigh,Vincent Schiavelli,Paul Sorvino,English,USA
+Hey Arnold! The Movie,5.9,2002,76,PG,3000000,Adventure|Animation|Comedy|Family,13684949,Tuck Tucker,Jennifer Jason Leigh,Vincent Schiavelli,Paul Sorvino,English,USA
 My Week with Marilyn,7,2011,99,R,6400000,Biography|Drama,14597405,Simon Curtis,Eddie Redmayne,Toby Jones,Julia Ormond,English,UK
 The Matador,6.8,2005,96,R,10000000,Comedy|Crime|Drama|Thriller,12570442,Richard Shepard,Adam Scott,Philip Baker Hall,Hope Davis,English,USA
 Love Jones,7.4,1997,104,R,10000000,Drama|Romance,12514138,Theodore Witcher,Leonard Roberts,Nia Long,Larenz Tate,English,USA
@@ -3168,7 +3168,7 @@ Sleepover,5.3,2004,89,PG,10000000,Comedy|Romance,8070311,Joe Nussbaum,Steve Care
 Body Double,6.8,1984,114,R,10000000,Mystery|Thriller,,Brian De Palma,Melanie Griffith,Dennis Franz,Gregg Henry,English,USA
 MacGruber,5.5,2010,95,R,10000000,Action|Comedy|Romance,8460995,Jorma Taccone,Jasper Cole,Will Forte,Powers Boothe,English,USA
 Dirty Pretty Things,7.4,2002,97,R,10000000,Crime|Drama|Thriller,8111360,Stephen Frears,Sophie Okonedo,Benedict Wong,Sergi LÃ³pez,English,UK
-object.mapping.Movie 43,4.3,2013,94,R,6000000,Comedy,8828771,Elizabeth Banks,Hugh Jackman,Kate Winslet,Seth MacFarlane,English,USA
+Movie 43,4.3,2013,94,R,6000000,Comedy,8828771,Elizabeth Banks,Hugh Jackman,Kate Winslet,Seth MacFarlane,English,USA
 The Tourist,6,2010,103,PG-13,100000000,Action|Romance|Thriller,67631157,Florian Henckel von Donnersmarck,Johnny Depp,Angelina Jolie Pitt,Rufus Sewell,English,USA
 Over Her Dead Body,5.2,2008,95,PG-13,10000000,Comedy|Fantasy|Romance,7563670,Jeff Lowell,Stephen Root,William Morgan Sheppard,Wendi McLendon-Covey,English,USA
 Seeking a Friend for the End of the World,6.7,2012,101,R,10000000,Adventure|Comedy|Drama|Romance|Sci-Fi,6619173,Lorene Scafaria,Steve Carell,Mark Moses,Rob Huebel,English,USA
@@ -3309,7 +3309,7 @@ Trust the Man,5.7,2005,103,R,9000000,Comedy|Drama|Romance,1530535,Bart Freundlic
 Hamlet 2,6.4,2008,92,R,9000000,Comedy|Music,4881867,Andrew Fleming,Steve Coogan,Amy Poehler,David Arquette,English,USA
 Velvet Goldmine,7,1998,124,R,,Drama|Music,1043487,Todd Haynes,Christian Bale,Eddie Izzard,Janet McTeer,English,UK
 The Wailing,7.7,2016,156,Not Rated,,Fantasy|Horror|Mystery|Thriller,770629,Hong-jin Na,Jung-min Hwang,Jun Kunimura,Woo-hee Chun,Korean,South Korea
-Glee: The 3D Concert object.mapping.Movie,5.4,2011,84,PG,9000000,Documentary|Music,11860839,Kevin Tancharoen,Lea Michele,Heather Morris,Kevin McHale,English,USA
+Glee: The 3D Concert Movie,5.4,2011,84,PG,9000000,Documentary|Music,11860839,Kevin Tancharoen,Lea Michele,Heather Morris,Kevin McHale,English,USA
 The Legend of Suriyothai,6.6,2001,300,R,400000000,Action|Adventure|Drama|History|War,454255,Chatrichalerm Yukol,Sarunyu Wongkrachang,Chatchai Plengpanich,Mai Charoenpura,Thai,Thailand
 Two Evil Eyes,6.1,1990,120,R,9000000,Horror,349618,Dario Argento,John Amos,Adrienne Barbeau,Sally Kirkland,English,Italy
 Barbecue,6.1,2014,98,,,Comedy,,Eric Lavaine,Lambert Wilson,Julie Engelbrecht,Lionel Abelanski,French,France
@@ -3323,7 +3323,7 @@ Red Riding: In the Year of Our Lord 1974,7.1,2009,102,Not Rated,,Crime|Drama|Mys
 The Girl on the Train,6,2009,105,Unrated,,Drama,2874,AndrÃ© TÃ©chinÃ©,Catherine Deneuve,Ronit Elkabetz,Ãmilie Dequenne,French,France
 Veronika Decides to Die,6.5,2009,103,R,9000000,Drama|Romance,,Emily Young,Sarah Michelle Gellar,Erika Christensen,Jonathan Tucker,English,USA
 Crocodile Dundee,6.5,1986,93,PG-13,8800000,Adventure|Comedy,174635000,Peter Faiman,Paul Hogan,Linda Kozlowski,David Gulpilil,English,Australia
-"Ultramarines: A Warhammer 40,000 object.mapping.Movie",5.7,2010,76,R,,Action|Animation|Fantasy|Horror|Mystery|Sci-Fi|Thriller,,Martyn Pick,Sean Pertwee,Steven Waddington,Donald Sumpter,English,UK
+"Ultramarines: A Warhammer 40,000 Movie",5.7,2010,76,R,,Action|Animation|Fantasy|Horror|Mystery|Sci-Fi|Thriller,,Martyn Pick,Sean Pertwee,Steven Waddington,Donald Sumpter,English,UK
 The I Inside,6.1,2004,90,R,8800000,Mystery|Sci-Fi|Thriller,,Roland Suso Richter,Stephen Graham,Sarah Polley,Stephen Rea,English,UK
 Beneath Hill 60,7.1,2010,122,R,9000000,Drama|History|War,,Jeremy Sims,Harrison Gilbertson,Gyton Grantley,Steve Le Marquand,English,Australia
 Polisse,7.3,2011,127,Not Rated,,Crime|Drama,171320,MaÃ¯wenn,Riccardo Scamarcio,MaÃ¯wenn,Karin Viard,French,France
@@ -3355,7 +3355,7 @@ Quo Vadis,7.2,1951,171,Passed,7623000,Biography|Drama|History|Romance,,Mervyn Le
 Repo! The Genetic Opera,6.7,2008,150,R,8500000,Horror|Musical|Sci-Fi,140244,Darren Lynn Bousman,Alexa PenaVega,Paris Hilton,Paul Sorvino,English,USA
 Valley of the Wolves: Iraq,6,2006,122,,8300000,Action|Adventure,,Serdar Akar,Necati Sasmaz,BergÃ¼zar Korel,Ghassan Massoud,Arabic,Turkey
 Pulp Fiction,8.9,1994,178,R,8000000,Crime|Drama,107930000,Quentin Tarantino,Bruce Willis,Eric Stoltz,Phil LaMarr,English,USA
-The Muppet object.mapping.Movie,7.7,1979,95,G,,Adventure|Comedy|Family|Musical,76657000,James Frawley,Madeline Kahn,Jim Henson,Dom DeLuise,English,UK
+The Muppet Movie,7.7,1979,95,G,,Adventure|Comedy|Family|Musical,76657000,James Frawley,Madeline Kahn,Jim Henson,Dom DeLuise,English,UK
 Nightcrawler,7.9,2014,117,R,8500000,Crime|Drama|Thriller,32279955,Dan Gilroy,Jake Gyllenhaal,Michael Papajohn,James Huang,English,USA
 Club Dread,5.6,2004,119,R,8550000,Comedy|Horror|Thriller,4992159,Jay Chandrasekhar,Brittany Daniel,Lindsay Price,Jay Chandrasekhar,English,USA
 The Sound of Music,8,1965,174,G,8200000,Biography|Drama|Family|Musical|Romance,163214286,Robert Wise,Eleanor Parker,Angela Cartwright,Nicholas Hammond,English,USA
@@ -3698,7 +3698,7 @@ Dum Maaro Dum,6.2,2011,128,R,,Action|Crime|Drama|Thriller,563699,Rohan Sippy,Abh
 Insidious: Chapter 2,6.6,2013,106,PG-13,5000000,Fantasy|Horror|Thriller,83574831,James Wan,Lin Shaye,Barbara Hershey,Leigh Whannell,English,USA
 Saw II,6.6,2005,95,R,4000000,Horror|Mystery,87025093,Darren Lynn Bousman,Emmanuelle Vaugier,Tony Nappo,Shawnee Smith,English,USA
 10 Cloverfield Lane,7.3,2016,104,PG-13,15000000,Drama|Horror|Mystery|Sci-Fi|Thriller,71897215,Dan Trachtenberg,Bradley Cooper,John Gallagher Jr.,Sumalee Montano,English,USA
-Jackass: The object.mapping.Movie,6.6,2002,87,R,5000000,Comedy|Documentary,64267897,Jeff Tremaine,Bam Margera,Steve-O,Chris Pontius,English,USA
+Jackass: The Movie,6.6,2002,87,R,5000000,Comedy|Documentary,64267897,Jeff Tremaine,Bam Margera,Steve-O,Chris Pontius,English,USA
 Lights Out,6.9,2016,81,PG-13,4900000,Horror,56536016,David F. Sandberg,Billy Burke,Amiah Miller,Gabriel Bateman,English,USA
 Paranormal Activity 3,5.8,2011,94,R,5000000,Horror,104007828,Henry Joost,Johanna Braddy,Sprague Grayden,Christopher Nicholas Smith,English,USA
 Ouija,4.4,2014,89,PG-13,5000000,Fantasy|Horror,50820940,Stiles White,Lin Shaye,Shelley Hennig,Daren Kagasoff,English,USA
@@ -3722,7 +3722,7 @@ Billy Elliot,7.7,2000,110,R,5000000,Drama|Music,21994911,Stephen Daldry,Julie Wa
 The Way Way Back,7.4,2013,103,PG-13,5000000,Comedy|Drama,21501098,Nat Faxon,Steve Carell,Liam James,Jim Rash,English,USA
 House Party 2,5.1,1991,94,R,5000000,Comedy|Drama|Music|Romance,19281235,George Jackson,William Schallert,Tisha Campbell-Martin,Helen Martin,English,USA
 The Man from Snowy River,7.3,1982,102,PG,3500000,Adventure|Drama|Family|Romance|Western,,George Miller,Tony Bonner,Jack Thompson,Tom Burlinson,English,Australia
-Doug's 1st object.mapping.Movie,5,1999,77,G,5000000,Animation|Comedy|Family,19421271,Maurice Joyce,Frank Welker,Constance Shulman,Alice Playten,English,USA
+Doug's 1st Movie,5,1999,77,G,5000000,Animation|Comedy|Family,19421271,Maurice Joyce,Frank Welker,Constance Shulman,Alice Playten,English,USA
 The Apostle,7.2,1997,134,PG-13,5000000,Drama,20733485,Robert Duvall,John Beasley,Todd Allen,June Carter Cash,English,USA
 Mommie Dearest,6.7,1981,129,R,5000000,Biography|Drama,,Frank Perry,Faye Dunaway,Xander Berkeley,Diana Scarwid,English,USA
 Our Idiot Brother,6.4,2011,90,R,5000000,Comedy|Drama,24809547,Jesse Peretz,Zooey Deschanel,Adam Scott,Steve Coogan,English,USA
@@ -3756,7 +3756,7 @@ Fifty Shades of Black,3.5,2016,92,R,5000000,Comedy,11675178,Michael Tiddes,Fred 
 Not Easily Broken,6.1,2009,99,PG-13,8000000,Drama|Romance,10572742,Bill Duke,Eddie Cibrian,Jenifer Lewis,Wood Harris,English,USA
 A Farewell to Arms,6.6,1932,79,Unrated,800000,Drama|Romance|War,,Frank Borzage,Gary Cooper,Helen Hayes,Adolphe Menjou,English,USA
 The Perfect Match,4.5,2016,96,R,5000000,Comedy|Romance,9658370,Bille Woodruff,Donald Faison,Brandy Norwood,Lauren London,English,USA
-Digimon: The object.mapping.Movie,5.9,2000,82,PG,5000000,Action|Adventure|Animation|Family|Sci-Fi,9628751,Mamoru Hosoda,Lara Jill Miller,Colleen O'Shaughnessey,Mona Marshall,English,USA
+Digimon: The Movie,5.9,2000,82,PG,5000000,Action|Adventure|Animation|Family|Sci-Fi,9628751,Mamoru Hosoda,Lara Jill Miller,Colleen O'Shaughnessey,Mona Marshall,English,USA
 Saved!,6.9,2004,92,PG-13,5000000,Comedy|Drama,8786715,Brian Dannelly,Macaulay Culkin,Patrick Fugit,Eva Amurri Martino,English,USA
 The Barbarian Invasions,7.7,2003,112,R,6000000,Comedy|Crime|Drama|Mystery|Romance,3432342,Denys Arcand,Marie-JosÃ©e Croze,StÃ©phane Rousseau,Marina Hands,French,Canada
 Robin and Marian,6.6,1976,106,PG,5000000,Adventure|Drama|Romance,,Richard Lester,Robert Shaw,Denholm Elliott,Nicol Williamson,English,USA
@@ -3868,7 +3868,7 @@ After.Life,5.9,2009,104,R,4500000,Drama|Horror|Mystery|Thriller,108229,Agnieszka
 Fugly,4.7,2014,134,,,Drama|Thriller,,Kabir Sadanand,Jimmy Shergill,Sana Saeed,Dimple Kapadia,Hindi,India
 One Flew Over the Cuckoo's Nest,8.7,1975,133,R,4400000,Drama,112000000,Milos Forman,Scatman Crothers,Michael Berryman,Louise Fletcher,English,USA
 R.L. Stine's Monsterville: The Cabinet of Souls,5.9,2015,85,PG,4400000,Comedy,,Peter DeLuise,Katherine McNamara,Dove Cameron,Braeden Lemasters,English,USA
-Silent object.mapping.Movie,6.7,1976,87,PG,4400000,Comedy|Romance,,Mel Brooks,Sid Caesar,Dom DeLuise,Bernadette Peters,,USA
+Silent Movie,6.7,1976,87,PG,4400000,Comedy|Romance,,Mel Brooks,Sid Caesar,Dom DeLuise,Bernadette Peters,,USA
 Airlift,8.5,2016,130,,4400000,Action|Drama|History|Thriller|War,,Raja Menon,Nimrat Kaur,Sameer Ali Khan,Purab Kohli,Hindi,India
 Anne of Green Gables            ,8.4,,199,TV-G,,Drama|Family,,,Zack Ward,Jonathan Crombie,Megan Follows,English,Canada
 Falcon Rising,5.8,2014,103,R,4500000,Action|Adventure,8691,Ernie Barbarash,Michael Jai White,Michael J. Morris,Lateef Crowder,English,USA
@@ -4063,7 +4063,7 @@ Martin Lawrence Live: Runteldat,5.4,2002,113,R,3000000,Biography|Comedy|Document
 Cat on a Hot Tin Roof,8.1,1958,108,Approved,3000000,Drama|Romance,,Richard Brooks,Burl Ives,Judith Anderson,Jack Carson,English,USA
 Beneath the Planet of the Apes,6.1,1970,95,G,3000000,Action|Adventure|Sci-Fi,,Ted Post,Linda Harrison,Gregory Sierra,Victor Buono,English,USA
 Air Bud,5.1,1997,98,PG,3000000,Comedy|Drama|Family|Sport,24629916,Charles Martin Smith,Kevin Zegers,Bill Cobbs,Michael Jeter,English,USA
-PokÃ©mon 3: The object.mapping.Movie,5.6,2000,93,G,16000000,Action|Adventure|Animation|Family|Fantasy|Sci-Fi,,Kunihiko Yuyama,Veronica Taylor,Eric Stuart,Lisa Ortiz,Japanese,Japan
+PokÃ©mon 3: The Movie,5.6,2000,93,G,16000000,Action|Adventure|Animation|Family|Fantasy|Sci-Fi,,Kunihiko Yuyama,Veronica Taylor,Eric Stuart,Lisa Ortiz,Japanese,Japan
 Jason Lives: Friday the 13th Part VI,5.9,1986,86,R,3000000,Horror|Thriller,19472057,Tom McLoughlin,Tony Goldwyn,Ron Palillo,Vincent Guastaferro,English,USA
 The Bridge on the River Kwai,8.2,1957,161,PG,3000000,Adventure|Drama|War,27200000,David Lean,William Holden,Sessue Hayakawa,Jack Hawkins,English,UK
 Spaced Invaders,5.3,1990,100,PG,3000000,Adventure|Comedy|Sci-Fi,15369573,Patrick Read Johnson,Ariana Richards,Royal Dano,Tonya Lee Williams,English,USA
@@ -4116,7 +4116,7 @@ Creature            ,5,,173,,,Horror|Sci-Fi|Thriller,,,Craig T. Nelson,Colm Feor
 Bachelorette,5.3,2012,87,R,3000000,Comedy|Romance,418268,Leslye Headland,Kirsten Dunst,Adam Scott,Andrew Rannells,English,USA
 BrainDead            ,7.9,,44,,,Comedy|Drama|Horror|Sci-Fi|Thriller,,,Danny Pino,Megan Hilty,Zach Grenier,English,USA
 Brave New Girl,5,2004,120,PG-13,,Drama|Family|Music,,Bobby Roth,Virginia Madsen,Aaron Ashmore,Lindsey Haun,English,USA
-Tim and Eric's Billion Dollar object.mapping.Movie,5.3,2012,93,R,3000000,Comedy,200803,Tim Heidecker,Michael Gross,William Atherton,Bob Ross,English,USA
+Tim and Eric's Billion Dollar Movie,5.3,2012,93,R,3000000,Comedy,200803,Tim Heidecker,Michael Gross,William Atherton,Bob Ross,English,USA
 The Gambler,6,2014,111,R,25000000,Crime|Drama|Thriller,33631221,Rupert Wyatt,George Kennedy,Cjon Saulsberry,Griffin Cleveland,English,USA
 The Grand            ,7.6,,60,,,Drama,,,Susan Hampshire,Amanda Mealing,Tim Healy,English,UK
 Summer Storm,7.4,2004,98,R,2700000,Comedy|Drama|Romance|Sport,95016,Marco Kreuzpaintner,Alicja Bachleda,Kostja Ullmann,Robert Stadlober,German,Germany
@@ -4126,7 +4126,7 @@ Just Looking,6.7,1999,97,R,3000000,Comedy|Drama,39852,Jason Alexander,Gretchen M
 The Divide,5.8,2011,122,R,3000000,Drama|Sci-Fi|Thriller,22000,Xavier Gens,Michael Biehn,Lauren German,Rosanna Arquette,English,Germany
 The Eclipse,6.2,2009,86,R,,Drama|Horror|Romance,128937,Conor McPherson,Aidan Quinn,Iben Hjejle,Jim Norton,English,Ireland
 Demonic,5.3,2015,83,R,3000000,Horror|Thriller,,Will Canon,Frank Grillo,Scott Mechlowicz,Aaron Yoo,English,USA
-My Big Fat Independent object.mapping.Movie,3.3,2005,80,R,3000000,Comedy,,Philip Zlotorynski,Neil Hopkins,Darren Keefe Reiher,David Douglas,English,USA
+My Big Fat Independent Movie,3.3,2005,80,R,3000000,Comedy,,Philip Zlotorynski,Neil Hopkins,Darren Keefe Reiher,David Douglas,English,USA
 Alice in Wonderland,6.5,2010,108,PG,200000000,Adventure|Family|Fantasy,334185206,Tim Burton,Johnny Depp,Alan Rickman,Anne Hathaway,English,USA
 The Deported,6.2,2009,90,PG-13,3000000,Comedy,,Lance Kawas,Taylor Negron,Michael Rapaport,Talia Shire,English,USA
 Tanner Hall,5.9,2009,96,R,3000000,Drama,5005,Francesca Gregorini,Tom Everett Scott,Amy Sedaris,Chris Kattan,English,USA
@@ -4284,7 +4284,7 @@ Strangers with Candy            ,8.1,,22,TV-14,,Comedy,,,Stephen Colbert,Amy Sed
 Hamlet,7.8,1996,150,PG-13,18000000,Drama,4414535,Kenneth Branagh,Julie Christie,Brian Blessed,Richard Briers,English,UK
 Shortbus,6.5,2006,101,Unrated,2000000,Comedy|Drama|Romance,1984378,John Cameron Mitchell,Sook-Yin Lee,Peter Stickles,Raphael Barker,English,USA
 Waltz with Bashir,8,2008,90,R,1500000,Animation|Biography|Documentary|Drama|History|War,2283276,Ari Folman,Ari Folman,Ronny Dayag,Zahava Solomon,Hebrew,Israel
-"The Book of Mormon object.mapping.Movie, Volume 1: The Journey",3.3,2003,120,PG-13,2000000,Adventure,1098224,Gary Rogers,Noah Danby,Kirby Heyborne,Bruce Newbold,English,USA
+"The Book of Mormon Movie, Volume 1: The Journey",3.3,2003,120,PG-13,2000000,Adventure,1098224,Gary Rogers,Noah Danby,Kirby Heyborne,Bruce Newbold,English,USA
 No End in Sight,8.3,2007,102,,2000000,Documentary|War,1430185,Charles Ferguson,Campbell Scott,Dick Cheney,Donald Rumsfeld,English,USA
 The Diary of a Teenage Girl,6.9,2015,102,R,2000000,Drama|Romance,1477002,Marielle Heller,Alexander SkarsgÃ¥rd,David Fine,Austin Lyon,English,USA
 Get Real            ,7.3,,60,,,Comedy|Drama|Romance,,,Anne Hathaway,Jon Tenney,Debrah Farentino,English,USA
@@ -4365,7 +4365,7 @@ Battle for the Planet of the Apes,5.5,1973,96,G,1800000,Action|Sci-Fi,,J. Lee Th
 Songcatcher,7.3,2000,109,PG-13,1800000,Drama|Music,3050934,Maggie Greenwald,Aidan Quinn,David Patrick Kelly,Jane Adams,English,USA
 Higher Ground,6.3,2011,109,R,,Drama,841206,Vera Farmiga,Donna Murphy,Bill Irwin,Michael Chernus,English,USA
 Vaalu,5.1,2015,155,,150000000,Comedy|Romance,,Vijay Chandar,Hansika Motwani,T.R. Silambarasan,Brahmanandam,Tamil,India
-The Greatest object.mapping.Movie Ever Sold,6.6,2011,90,PG-13,1500000,Comedy|Documentary,638476,Morgan Spurlock,Quentin Tarantino,J.J. Abrams,Donald Trump,English,USA
+The Greatest Movie Ever Sold,6.6,2011,90,PG-13,1500000,Comedy|Documentary,638476,Morgan Spurlock,Quentin Tarantino,J.J. Abrams,Donald Trump,English,USA
 Ed and His Dead Mother,6.1,1993,93,PG-13,1800000,Comedy|Horror,,Jonathan Wacks,Steve Buscemi,Gary Farmer,Jon Gries,English,USA
 Travelers and Magicians,7.5,2003,108,,1800000,Adventure|Drama,505295,Khyentse Norbu,Tshewang Dendup,Lhakpa Dorji,Sonam Kinga,Dzongkha,Australia
 Hang 'Em High,7,1968,114,M,1800000,Western,,Ted Post,Clint Eastwood,Bruce Dern,Alan Hale Jr.,English,USA
@@ -4456,7 +4456,7 @@ The Dog Lover,4.8,2016,101,PG,2000000,Drama,,Alex Ranarivelo,Lea Thompson,Christ
 Girl House,5.5,2014,99,,3150000,Horror|Thriller,,Jon Knautz,Camren Bicondova,Adam DiMarco,Chasty Ballesteros,English,Canada
 The Blue Room,6.3,2014,76,R,,Crime|Romance|Thriller,231186,Mathieu Amalric,Mathieu Amalric,LÃ©a Drucker,Laurent Poitrenaux,French,France
 House at the End of the Drive,6.9,2014,91,R,1400000,Horror|Thriller,,David Worth,Jessica Szohr,Jonathan Mangum,Angela Jones,English,USA
-Batman: The object.mapping.Movie,6.5,1966,105,Approved,1377800,Adventure|Comedy|Family,,Leslie H. Martinson,Burgess Meredith,Cesar Romero,Burt Ward,English,USA
+Batman: The Movie,6.5,1966,105,Approved,1377800,Adventure|Comedy|Family,,Leslie H. Martinson,Burgess Meredith,Cesar Romero,Burt Ward,English,USA
 "Lock, Stock and Two Smoking Barrels",8.2,1998,120,R,960000,Comedy|Crime,3650677,Guy Ritchie,Jason Statham,Jason Flemyng,Dexter Fletcher,English,UK
 The Ballad of Gregorio Cortez,7.1,1982,105,,1250000,Western,,Robert M. Young,Barry Corbin,Bruce McGill,Ned Beatty,English,USA
 The Streets of San Francisco            ,7.3,,120,,,Action|Crime|Drama|Mystery,,,Karl Malden,Michael Douglas,,English,USA
@@ -4506,7 +4506,7 @@ Certifiably Jonathan,6.2,2007,85,,1200000,Comedy|Documentary,7826,James David Pa
 Q,5.6,2011,103,,1500000,Drama,,Laurent Bouhnik,DÃ©borah RÃ©vy,Johnny Amaro,Yassine Azzouz,French,France
 The Knife of Don Juan,7.2,2013,110,,1200000,Comedy|Drama,3830,Tom Sanchez,Nataniel SÃ¡nchez,Antonio ArruÃ©,Juan Carlos Montoya,Spanish,USA
 Grand Theft Parsons,6.1,2003,88,PG-13,,Adventure|Comedy|Drama,,David Caffrey,Marley Shelton,Scott Adsit,Jim Cody Williams,English,USA
-Extreme object.mapping.Movie,3.8,2008,76,R,,Comedy,,Adam Jay Epstein,Rich Ceraulo,Denise Boutte,Vanessa Lee Chester,English,USA
+Extreme Movie,3.8,2008,76,R,,Comedy,,Adam Jay Epstein,Rich Ceraulo,Denise Boutte,Vanessa Lee Chester,English,USA
 The Charge of the Light Brigade,7.1,1936,100,Approved,1200000,Action|Adventure|Romance|War,,Michael Curtiz,Errol Flynn,David Niven,Spring Byington,English,USA
 Below Zero,4.5,2011,99,R,1200000,Thriller,,Justin Thomas Ostensen,Michael Berryman,Kristin Booth,Michael Eisner,English,Canada
 Crowsnest,3.8,2012,84,R,1200000,Action|Horror|Mystery|Thriller,,Brenton Spencer,Christie Burke,Victor Zinck Jr.,Chelsey Reist,English,Canada
@@ -4621,7 +4621,7 @@ ZMD: Zombies of Mass Destruction,5.1,2009,89,R,500000,Comedy|Horror|Sci-Fi,,Kevi
 Snow White: A Deadly Summer,2.2,2012,83,PG-13,1000000,Horror,,David DeCoteau,Maureen McCormick,Shanley Caswell,Tim Abell,English,USA
 Hidden Away,7.2,2014,96,Unrated,,Drama|Romance,,Mikel Rueda,Ãlex Angulo,GermÃ¡n Alcarazu,Joseba Ugalde,Spanish,Spain
 My Last Day Without You,5.7,2011,90,,1000000,Comedy|Drama|Romance,,Stefan C. Schaefer,Nicole Beharie,Marlene Forte,Reg E. Cathey,English,USA
-Steppin: The object.mapping.Movie,3.4,2009,138,PG-13,1000000,Comedy|Music,,Michael Taliferro,Wesley Jonathan,Sticky Fingaz,Chrystee Pharris,English,USA
+Steppin: The Movie,3.4,2009,138,PG-13,1000000,Comedy|Music,,Michael Taliferro,Wesley Jonathan,Sticky Fingaz,Chrystee Pharris,English,USA
 Doc Holliday's Revenge,3.8,2014,84,PG-13,1000000,Western,,David DeCoteau,William McNamara,Tom Berenger,Randy Jay Burrell,English,USA
 Black Rock,4.7,2012,83,R,,Horror|Thriller,,Katie Aselton,Katie Aselton,Anslem Richardson,Jay Paulson,English,USA
 Truth or Die,5.6,2012,96,Not Rated,1000000,Horror|Mystery,,Robert Heath,David Oakes,Alexander Vlahos,Jennie Jacques,English,UK
@@ -4675,7 +4675,7 @@ Saints and Soldiers,6.8,2003,90,PG-13,780000,Action|Adventure|Drama|War,1310270,
 Vessel,6.2,2012,14,,,Horror|Sci-Fi|Short|Thriller,,Clark Baker,Taylor Pigeon,Alan Pietruszewski,Whit Spurgeon,English,USA
 American Graffiti,7.5,1973,112,PG,777000,Comedy|Drama|Music,115000000,George Lucas,Harrison Ford,Ron Howard,Mackenzie Phillips,English,USA
 Iraq for Sale: The War Profiteers,7.7,2006,75,,750000,Documentary|War,,Robert Greenwald,Scott Helvenston,Katy Helvenston-Wettengal,Donna Zovko,English,USA
-Aqua Teen Hunger Force Colon object.mapping.Movie Film for Theaters,6.9,2007,86,R,750000,Action|Adventure|Animation|Comedy|Fantasy|Sci-Fi,5518918,Matt Maiellaro,Tina Fey,Fred Armisen,Chris Kattan,English,USA
+Aqua Teen Hunger Force Colon Movie Film for Theaters,6.9,2007,86,R,750000,Action|Adventure|Animation|Comedy|Fantasy|Sci-Fi,5518918,Matt Maiellaro,Tina Fey,Fred Armisen,Chris Kattan,English,USA
 Safety Not Guaranteed,7,2012,86,R,750000,Comedy|Drama|Romance,4007792,Colin Trevorrow,Mary Lynn Rajskub,Mark Duplass,Jeff Garlin,English,USA
 Kevin Hart: Laugh at My Pain,7.5,2011,89,R,,Comedy|Documentary,7705974,Leslie Small,Isaac C. Singleton Jr.,Larry King,Jeanette Branch,English,USA
 Kill List,6.3,2011,95,Not Rated,500000,Crime|Horror|Thriller,26297,Ben Wheatley,MyAnna Buring,Ben Crompton,Neil Maskell,English,UK
@@ -4708,7 +4708,7 @@ Walter,5.3,2015,94,,700000,Comedy|Drama,,Anna Mastro,Leven Rambin,Justin Kirk,Vi
 Top Hat,7.8,1935,81,Approved,609000,Comedy|Musical|Romance,3000000,Mark Sandrich,Ginger Rogers,Edward Everett Horton,Eric Blore,English,USA
 The Blair Witch Project,6.4,1999,81,R,60000,Horror,140530114,Daniel Myrick,Heather Donahue,Joshua Leonard,Michael C. Williams,English,USA
 Woodstock,8.1,1970,215,R,600000,Documentary|History|Music,13300000,Michael Wadleigh,Joe Cocker,Jimi Hendrix,Joan Baez,English,USA
-The Kentucky Fried object.mapping.Movie,6.5,1977,83,R,650000,Comedy,,John Landis,David Zucker,Barry Dennen,Tara Strohmeier,English,USA
+The Kentucky Fried Movie,6.5,1977,83,R,650000,Comedy,,John Landis,David Zucker,Barry Dennen,Tara Strohmeier,English,USA
 Mercy Streets,5.6,2000,106,PG-13,600000,Action|Crime|Drama,171988,Jon Gunn,Stacy Keach,David A.R. White,Cynthia Watros,English,USA
 Arnolds Park,5.6,2007,103,PG-13,600000,Mystery|Thriller,23616,Gene Teigland,Kendyl Joi,Matthew Feeney,Tac Fitzgerald,English,USA
 Broken Vessels,6.6,1998,90,R,600000,Drama,13493,Scott Ziehl,William Smith,Jason London,Brent David Fraser,English,USA
@@ -4964,7 +4964,7 @@ Penitentiary,5.8,1979,99,R,100000,Crime|Drama|Sport,,Jamaa Fanaka,Leon Isaac Ken
 The Lost Skeleton of Cadavra,7,2001,90,PG,40000,Comedy|Horror|Sci-Fi,110536,Larry Blamire,Fay Masterson,Brian Howe,Larry Blamire,English,USA
 "Dude, Where's My Dog?!",3.2,2014,82,PG,20000,Family,,Stephen Langford,Kevin P. Farley,Gabriela Castillo,Brandon Middleton,English,USA
 Cheap Thrills,6.8,2013,88,Not Rated,200000,Comedy|Crime|Drama|Horror|Thriller,59379,E.L. Katz,Brighton Sharbino,Ethan Embry,Elissa Dowling,English,USA
-Indie Game: The object.mapping.Movie,7.7,2012,103,Not Rated,100000,Documentary,,Lisanne Pajot,Jonathan Blow,Edmund McMillen,Phil Fish,English,Canada
+Indie Game: The Movie,7.7,2012,103,Not Rated,100000,Documentary,,Lisanne Pajot,Jonathan Blow,Edmund McMillen,Phil Fish,English,Canada
 Closure,5.6,2007,80,R,1800000,Thriller,,Dan Reed,Danny Dyer,Adam Rayner,Ralph Brown,English,UK
 Open Secret,7.1,1948,68,Approved,,Crime|Drama,,John Reinhardt,Sheldon Leonard,John Ireland,Arthur O'Connell,English,USA
 Echo Dr.,3.6,2013,81,,100000,Action|Drama|Sci-Fi|Thriller,,Patrick Ryan Sims,Claire Gordon-Harper,Hugh Mun,Johnathan Hurley,English,USA

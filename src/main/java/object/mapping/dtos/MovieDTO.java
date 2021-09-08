@@ -1,13 +1,10 @@
 package object.mapping.dtos;
 
 import java.util.Arrays;
-import java.util.List;
 
-import org.apache.commons.collections4.MultiValuedMap;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import com.opencsv.bean.CsvBindAndJoinByName;
 import com.opencsv.bean.CsvBindByName;
 
 public class MovieDTO {
@@ -34,7 +31,7 @@ public class MovieDTO {
 	@CsvBindByName
 	private String[] genres;
 	@CsvBindByName
-	private String gross;
+	private int gross;
 	@CsvBindByName
 	private String director;
 	@CsvBindByName
@@ -57,7 +54,7 @@ public class MovieDTO {
 		return budget;
 	}
 
-	public String getGross() {
+	public int getGross() {
 		return gross;
 	}
 

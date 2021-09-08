@@ -1,7 +1,5 @@
 package object.mapping.deserialisers;
 
-import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -12,7 +10,6 @@ import org.apache.log4j.Logger;
 import com.opencsv.bean.CsvToBeanBuilder;
 import com.opencsv.bean.CsvToBeanFilter;
 
-import config.management.ConfigManager;
 import file.management.MovieFileReader;
 import file.management.MovieRecordScanner;
 import object.mapping.dtos.MovieDTO;
@@ -26,8 +23,7 @@ public class MovieDeserialiser {
 		return invalidMovies;
 	}
 
-
-	public List<MovieDTO> generateMovieData(){
+	public List<MovieDTO> generateMovieData(String filename){ // refactor this to create two lists for valid and invalid
 		CsvToBeanFilter filter = line -> {
 			if (line.length != 14){
 				logger.info( "Bad data found: "+ Arrays.toString( line ));
@@ -44,7 +40,7 @@ public class MovieDeserialiser {
 		};
 
 		List<MovieDTO> movies;
-		movies = new CsvToBeanBuilder(movieFileReader.movieFileReader( ConfigManager.movieDataTestFileLocation() ))
+		movies = new CsvToBeanBuilder(movieFileReader.movieFileReader( filename ))
 				.withType( MovieDTO.class)
 				.withFilter( filter )
 				.build()

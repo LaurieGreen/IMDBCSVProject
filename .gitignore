@@ -2,3 +2,8 @@
 /.idea/
 /build/
 /src/main/config.properties
+/src/test/config.properties
+/src/main/log/invalidMovies.txt
+/src/main/log/log.txt
+/src/main/log/validMovies.txt
+/src/main/resources/log4j.properties
